@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "immer": "^9.0.12",
     "redux": "^4.1.2",
     "redux-logger": "^3.0.6"
   }
